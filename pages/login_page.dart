@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/components/my_button.dart';
-import 'package:flutter_application_1/components/my_textfield.dart';
-import 'package:flutter_application_1/components/square_tile.dart';
-import 'package:flutter_application_1/services/auth_service.dart';
+import '../components/my_button.dart';
+import '../components/my_textfield.dart';
+import '../components/square_tile.dart';
+import '../services/auth_service.dart';
 import 'package:provider/provider.dart';
 
 class LoginPage extends StatefulWidget {

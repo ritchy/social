@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/services/survey_service.dart';
-
+import '../services/survey_service.dart';
 import '../components/my_button.dart';
 import '../components/my_textfield.dart';
 

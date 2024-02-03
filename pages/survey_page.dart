@@ -1,10 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/components/app_drawer.dart';
-import 'package:flutter_application_1/components/list_tile.dart';
-import 'package:flutter_application_1/pages/new_survey_page.dart';
-import 'package:flutter_application_1/services/survey_service.dart';
-
+import '../components/app_drawer.dart';
+import '../components/list_tile.dart';
+import '../pages/new_survey_page.dart';
+import '../services/survey_service.dart';
 import '../components/new_survey_button.dart';
 
 class SurveyPage extends StatefulWidget {

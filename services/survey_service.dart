@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/model/survey.dart';
+import '../model/survey.dart';
 
 class SurveyService extends ChangeNotifier {
   final FirebaseAuth firebaseAuth = FirebaseAuth.instance;

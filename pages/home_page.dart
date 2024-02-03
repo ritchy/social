@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/components/app_drawer.dart';
-import 'package:flutter_application_1/components/list_tile.dart';
-import 'package:flutter_application_1/components/my_textfield.dart';
-import 'package:flutter_application_1/components/post_button.dart';
-import 'package:flutter_application_1/database/firestore.dart';
+import '../components/app_drawer.dart';
+import '../components/list_tile.dart';
+import '../components/my_textfield.dart';
+import '../components/post_button.dart';
+import '../database/firestore.dart';
 
 class HomePage extends StatelessWidget {
   HomePage({super.key});

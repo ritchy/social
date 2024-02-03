@@ -1,5 +1,5 @@
-name: flutter_application_1
-description: "A new Flutter project."
+name: social
+description: "A social project."
 
 # Prevent accidental publishing to pub.dev.
 publish_to: 'none'
