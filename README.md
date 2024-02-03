@@ -1,6 +1,6 @@
-# flutter_application_1
+# social
 
-A new Flutter project.
+A new social project.
 
 # start here
 
